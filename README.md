@@ -1,1 +1,2 @@
-# Image-Representations-Intensity-Transformations-and-Quantization
+amithalbreich
+sol1.py
